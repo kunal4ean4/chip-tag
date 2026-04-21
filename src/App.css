@@ -1,0 +1,22 @@
+.container {
+    text-align: center;
+}
+.container input{
+  height: 30px;
+    width: 236px;
+    font-size: 20px;
+}
+span.chip {
+    background: #d4ffd4;
+    margin: 5px;
+    padding: 9px 20px;
+    cursor: pointer;
+}
+.chipContainer {
+    margin-top: 24px;
+}
+span.del {
+    margin-left: 9px;
+    border-radius: 10px;
+    cursor: pointer;
+}
